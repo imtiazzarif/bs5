@@ -1,0 +1,15 @@
+.bg-black {
+  background: #000000;
+  color: #fff;
+}
+#main-header .port-item {
+  width: 30%;
+}
+#main-header .port-item:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+#main-header img {
+  height: 349px;
+  width: 100%;
+}
